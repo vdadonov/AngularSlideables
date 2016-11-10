@@ -13,16 +13,15 @@ No CSS is necessary. Add the “slideable” class to any hidden, slideable cont
 
 This directive currently without IDs.
 
-EXAMPLES:
+EXAMPLE:
 
-<pre><code>
-<article ng-app="angularSlideables">
-    <h1 slide-toggle >Click here for Hipster Ipsum.</h1>
-    <div class="slideable">
-        <p>Bespoke aesthetic Bushwick craft beer. Qui aesthetic butcher, cardigan ex scenester Neutra American Apparel mumblecore.</p>
-        <p>Ethical adipisicing before they sold out, sriracha Thundercats cardigan dolor deep v placeat. Flannel tattooed meggings direct trade banh mi tousled sriracha. Portland VHS ut dreamcatcher. Butcher eu irony, Banksy leggings eiusmod Pinterest hashtag Etsy asymmetrical lo-fi Helvetica quis incididunt adipisicing. YOLO cliche minim mlkshk dreamcatcher excepteur, Austin McSweeney's.</p>
-        <p>Coded @ Kinfolk Studios in Williamsburg, Brooklyn, 2013.</p>
-    </div>
-    <p>Your fresh artisinal Ipsum will appear above this paragraph. </p>
-</article>
+<pre><code>&lt;article ng-app="angularSlideables"&gt;
+    &lt;h1 slide-toggle &gt;Click here for Hipster Ipsum.&lt;/h1&gt;
+    &lt;div class="slideable"&gt;
+        &lt;p&gt;Bespoke aesthetic Bushwick craft beer. Qui aesthetic butcher, cardigan ex scenester Neutra American Apparel mumblecore.&lt;/p&gt;
+        &lt;p&gt;Ethical adipisicing before they sold out, sriracha Thundercats cardigan dolor deep v placeat. Flannel tattooed meggings direct trade banh mi tousled sriracha. Portland VHS ut dreamcatcher. Butcher eu irony, Banksy leggings eiusmod Pinterest hashtag Etsy asymmetrical lo-fi Helvetica quis incididunt adipisicing. YOLO cliche minim mlkshk dreamcatcher excepteur, Austin McSweeney's.&lt;/p&gt;
+        &lt;p&gt;Coded @ Kinfolk Studios in Williamsburg, Brooklyn, 2013.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;p&gt;Your fresh artisinal Ipsum will appear above this paragraph. &lt;/p&gt;
+&lt;/article&gt;
 </code></pre>
